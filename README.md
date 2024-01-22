@@ -8,6 +8,9 @@ Requirements: ```Conda/Miniconda``` [link](anaconda.org)
 
 Run the install script ```./setup.sh``` on Linux
 
+To activate the virtual environment, use the conda command
+```conda activate .venv/rvn```
+
 ## Contact
 
 Quoc Cuong LE (quoccuong.le@outlook.com)
