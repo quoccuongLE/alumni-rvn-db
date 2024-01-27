@@ -151,3 +151,5 @@ dev.env
 *.zip
 *.pth
 *.pt
+*.csv
+*.xlsx
