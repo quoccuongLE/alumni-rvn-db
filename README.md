@@ -1,6 +1,6 @@
-# Alumni of Valet scholarship recipients in Vietnam
+# Alumni of Vallet scholarship recipients in Vietnam
 
-This project aims to process and centralize the information of Valet scholarship recipients in Vietnam to obtain some statistics for the association Rencontre du Vietnam (RVN)
+This project aims to process and centralize the information of [Vallet scholarship recipients in Vietnam](https://www.fondationvallet.org/en/scholarships/vietnam/) to obtain some statistics for the association [Rencontre du Vietnam](https://rencontresduvietnam.org/) (RVN)
 
 ## Installation
 
